@@ -31,6 +31,18 @@ The system reads an RFID card or tag, checks its authorization, and controls a 1
 
 The project demonstrates the practical application of embedded systems, wireless communication, RFID authentication, and cloud-connected data management.
 
+
+## 📚 Academic Documentation
+
+This project was developed as part of my **B.Tech final-year thesis**, documenting the design and implementation of an RFID-based access control system with IoT integration.
+
+📄 **[Read the Full Thesis (PDF)](docs/thesis.pdf)**
+
+The thesis provides detailed academic documentation of the project, including its objectives, system design, implementation methodology, and evaluation.
+
+For practical implementation details, refer to the hardware requirements, circuit diagrams, and source code documented in this repository.
+
+
 ## ✨ Features
 
 - 🪪 **RFID Authentication** — Identify RFID cards and tags presented to the reader.

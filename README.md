@@ -80,7 +80,6 @@ The block diagram below illustrates the overall design of the RFID-Based Smart L
   <em>System architecture showing the main components and their interactions.</em>
 </p>
 
-> Replace the image path above with the actual location of your block diagram. GitHub supports displaying repository images directly in Markdown.
 
 ## ⚙️ Working Principle
 
